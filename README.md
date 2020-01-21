@@ -25,4 +25,4 @@
 
  I'm an alumnus of [Makers](https://makers.tech/), and a **full-stack Software Engineer**.
 
- I have had the incredible fortune to live and work in three different countries(Canada, the United States, and the United Kingdom) in the past 10 years. Most recently, I worked as a law clerk at Havkins Rosenfeld Ritzert and Varriale in New York City. My work within the legal sector enabled me to appreciate my own personal interest in technology. I previously attended law school in New York City and completed a Bachelor of Arts degree in History and Economics from McGill University in Montreal, Canada.
+ Over the past 10 years, I have had the incredible fortune to live and work in three different countries(Canada, the United States, and the United Kingdom). Most recently, I worked as a law clerk at Havkins Rosenfeld Ritzert and Varriale in New York City. Unbeknownst to me, my legal projects spawned an interest in software engineer that I elected to pursue more holistically at Makers Academy in London. I previously attended law school in New York City and completed a Bachelor of Arts degree in History and Economics at McGill University in Montreal, Canada.
