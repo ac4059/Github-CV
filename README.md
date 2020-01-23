@@ -17,9 +17,8 @@
  [Experience ](#experience) |
  [Education ](#education) |
  [Interests ](#interests)
- 
- </div>
 
+ </div>
 
 
  # Background
@@ -30,7 +29,7 @@
 
  | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
  |--|--|--|--|--|
-
+ | [Route Around](https://github.com/Fantastic-Makers-Group-2-final-Project) | As a group of avid walkers, a 5-man team sought to develop an application, using JavaScript and React, that generated a random circular route when given either a postal code or the user's current location. | 2 weeks | JavaScript, React, Node, Google API | Jasmine, Jest, Travis CI, RSpec |
 
  # Skills
 #### Technical flexibility
