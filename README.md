@@ -9,6 +9,7 @@
 
 
  <div align="center">
+
  [Motivation ](#Motivation?) |
  [Background ](#Background) |
  [Projects ](#projects) |
@@ -16,6 +17,7 @@
  [Experience ](#experience) |
  [Education ](#education) |
  [Interests ](#interests)
+ 
  </div>
 
 
@@ -32,7 +34,3 @@
 
  # Skills
 #### Technical flexibility
-
-At Makers Academy I followed the TDD methodology, as well as XP values and agile processes. I
-
- My adaptability developed through working in a diverse range of industries which translated into developing projects in a range of different technologies, including **Ruby**, **Javascript** and **C#**. I have shown good practice when using TDD with an **external reviewer**, following a red-green-refactor cycle and making my code as clean and readable as possible. I've applied this flexibility to understanding different parts of the codebase to better understand the roles and reponsibilites of **our team** and allow better **delegation** of tasks.
