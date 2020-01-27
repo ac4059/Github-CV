@@ -92,3 +92,10 @@ Sales Associate
 
 ##### Upper Canada College (September 2006 - May 2011)
 * International Baccalaureate Diploma
+
+# Interests
+* Arsenal
+* Friends(I am an avid Friends fan. Prior to its removal from Netflix, I rewatched every single episode.)
+* Movie Trivia
+
+![](Arsenal_FC.jpg)
