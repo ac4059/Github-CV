@@ -35,7 +35,7 @@
 
 # Experience
 
-#### Havkins Rosenfeld Ritzert and Varriale - NEW YORK, 10004 (September 2017 - May 2019)
+##### Havkins Rosenfeld Ritzert and Varriale - NEW YORK, 10004 (September 2017 - May 2019)
 
 Law Clerk
 
@@ -44,7 +44,7 @@ Law Clerk
 * Liaised and communicated with clients on behalf of attorneys to gather information and execute legal strategies.
 * Independently drafted multiple stipulations of discontinuance and motions to dismiss that complied with Rule 12(b)(6) of the Federal Rules of Civil Procedure
 
-#### Bayern Munich - NEW YORK, 10025 (January 2017 - April 2017)
+##### Bayern Munich - NEW YORK, 10025 (January 2017 - April 2017)
 
 Project Associate
 
@@ -52,7 +52,7 @@ Project Associate
 * tracked the analytical components of Bayern Munich’s Facebook, Twitter, and Instagram accounts relative to other notable European and North American soccer(football) franchises
 * Drafted a report of marketing recommendations that was presented to Bayern Munich’s senior management in New York City.  
 
-#### Canadian Imperial Bank of Commerce (CIBC) Wood Gundy - TORONTO, L4K 4M3 (April 2014 - August 2015)
+##### Canadian Imperial Bank of Commerce (CIBC) Wood Gundy - TORONTO, L4K 4M3 (April 2014 - August 2015)
 
 Sales Associate
 
