@@ -44,6 +44,22 @@ Law Clerk
 * Liaised and communicated with clients on behalf of attorneys to gather information and execute legal strategies.
 * Independently drafted multiple stipulations of discontinuance and motions to dismiss that complied with Rule 12(b)(6) of the Federal Rules of Civil Procedure
 
+#### Bayern Munich - NEW YORK, 10025 (January 2017 - April 2017)
+
+Project Associate
+
+* Designed a social media marketing campaign for Bayern Munich’s newly founded American branch in New York.
+* tracked the analytical components of Bayern Munich’s Facebook, Twitter, and Instagram accounts relative to other notable European and North American soccer(football) franchises
+* Drafted a report of marketing recommendations that was presented to Bayern Munich’s senior management in New York City.  
+
+#### Canadian Imperial Bank of Commerce (CIBC) Wood Gundy - TORONTO, L4K 4M3 (April 2014 - August 2015)
+
+Sales Associate
+
+* Conducted administrative activities and engaged in administrative processes associated with supporting an Investment Advisor and his team
+* Engaged in marketing and business development activities and assisted in the development of investment plans and written proposals for prospects and clients
+* Assisted in processes to direct assets into suitable financial products based on the client’s risk/reward tolerances and demographic profile
+
 # Education
 
 ##### Makers Academy - Software Development bootcamp (October 2019 - January 2020)
