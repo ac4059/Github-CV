@@ -43,7 +43,7 @@
 
   Client Management
 
-  I previously worked as a law clerk in a large-scale legal setting. My role had a prominent client-facing component, which involved intaking clients and considering their needs. This entailed listening to whatever facts they presented, taking stock of pertinent case-related intricacies, and helping to determine the best course of action to meet their needs. 
+  I previously worked as a law clerk in a large-scale legal setting. My role had a prominent client-facing component, which involved intaking clients and considering their needs. This entailed listening to whatever facts they presented, taking stock of pertinent case-related intricacies, and helping to determine the best course of action to meet their needs.
 
 # Experience
 
@@ -90,5 +90,5 @@ Sales Associate
 ##### McGill University (September 2011 – April 2015)
 *	BA Honours History and Economics – Distinction  
 
-##### Upper Canada College (Sept 2006 - May 2011)
+##### Upper Canada College (September 2006 - May 2011)
 * International Baccalaureate Diploma
