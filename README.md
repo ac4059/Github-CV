@@ -31,7 +31,19 @@
  |--|--|--|--|--|
  | [Route Around](https://github.com/Fantastic-Makers-Group-2-final-Project) | As a group of avid walkers, a 5-man team sought to develop an application, using JavaScript and React, that generated a random circular route when given either a postal code or the user's current location. | 2 weeks | JavaScript, React, Node, Google API | Jasmine, Jest, Travis CI, RSpec |
 
- # Skills
+# Skills
+
+  Technical Flexibility
+
+  At Makers Academy my training consistently followed TDD methodology. Further, I actively aim to align my coding practices with Agile and XP values. My past experiences in other industries instilled a sense of malleability within me. In order to broaden my perspective, I learnt to write code in Ruby, JavaScript, and Python. Now, I've applied this flexibility to understanding different parts of the codebase to better understand the roles and responsibilities of our team and allow better delegation of tasks.
+
+  Data Analysis
+
+  Whilst developing digital marketing plans that predominantly involved data, predominantly in excel. I was tasked with the role of assessing the consumption of Bayern Munich's internet content. My role involved monitoring data and also evaluating subsequent marketing steps in order to further Bayern Munich's presence in the American digital realm.  
+
+  Client Management
+
+  I previously worked as a law clerk in a large-scale legal setting. My role had a prominent client-facing component, which involved intaking clients and considering their needs. This entailed listening to whatever facts they presented, taking stock of pertinent case-related intricacies, and helping to determine the best course of action to meet their needs. 
 
 # Experience
 
