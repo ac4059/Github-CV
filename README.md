@@ -33,6 +33,16 @@
 
  # Skills
 
+# Experience
+
+#### Havkins Rosenfeld Ritzert and Varriale - NEW YORK, 10004 (September 2017 - May 2019)
+
+Law Clerk
+
+* Conducted legal and public domain research for litigation fact collection, matter background, and business development utilizing Westlaw, PACER, and general search engines and social media.
+* Revised, formatted, and filed motion papers and briefs in New York State and Federal Courts.
+* Liaised and communicated with clients on behalf of attorneys to gather information and execute legal strategies.
+* Independently drafted multiple stipulations of discontinuance and motions to dismiss that complied with Rule 12(b)(6) of the Federal Rules of Civil Procedure
 
 # Education
 
