@@ -32,4 +32,25 @@
  | [Route Around](https://github.com/Fantastic-Makers-Group-2-final-Project) | As a group of avid walkers, a 5-man team sought to develop an application, using JavaScript and React, that generated a random circular route when given either a postal code or the user's current location. | 2 weeks | JavaScript, React, Node, Google API | Jasmine, Jest, Travis CI, RSpec |
 
  # Skills
-#### Technical flexibility
+
+
+# Education
+
+##### Makers Academy - Software Development bootcamp (October 2019 - January 2020)
+* Agile Software Development
+* XP Values
+* TDD
+* Languages: Ruby, Javascript (Jquery), HTML/CSS
+* Web Frameworks: Sinatra, Ruby on Rails
+* Databases: PostgreSQL, SQLite
+* Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine
+* CI/CD: Travis CI, Heroku
+
+##### Columbia School of Professional Studies and Law School (September 2016 – May 2018)
+* MSc Sports and Entertainment Management and Juris Doctor
+
+##### McGill University (September 2011 – April 2015)
+*	BA Honours History and Economics – Distinction  
+
+##### Upper Canada College (Sept 2006 - May 2011)
+* International Baccalaureate Diploma
