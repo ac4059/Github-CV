@@ -20,6 +20,13 @@
 
  </div>
 
+ # Motivation
+
+
+“You have a speed limit, no more than 60 miles per hour. What if you had a car and a computer said that this car is not going to go faster than 60 miles per hour. It’s a different way of controlling behavior. Often by controlling our choices, code in our life exerts a more profound and regulatory effect.” – Tim Wu
+
+Ever since I began to explore the impact of technology on social and public policy, I became drawn to coding. My previous legal studies enabled me to appreciate the omnipresence of code in all facets of life. Consequently, I enrolled at Makers Academy in London to foster my understanding of software development. As a result, I thoroughly enjoy the wide range of tasks associated with software development and technology. 
+
 
  # Background
 
@@ -95,7 +102,6 @@ Sales Associate
 
 # Interests
 * Arsenal
-* Friends(I am an avid Friends fan. Prior to its removal from Netflix, I rewatched every single episode.)
 * Movie Trivia
 
 ![](Arsenal_FC.jpg)
