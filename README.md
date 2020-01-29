@@ -6,7 +6,8 @@
 <img src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" alt="medium" hspace="50" height="42" width="42"></a>
 <a href="https://www.linkedin.com/in/arjun-roy-a6183119b/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
-
+<a href="https://www.codewars.com/users/ac4059">
+<img src="https://gitlab.com/uploads/-/system/project/avatar/12144548/codewars-logo.png" alt="codewars" hspace="50" height="42" width="42"></a></p>
 
  <div align="center">
 
@@ -25,7 +26,7 @@
 
 “You have a speed limit, no more than 60 miles per hour. What if you had a car and a computer said that this car is not going to go faster than 60 miles per hour. It’s a different way of controlling behavior. Often by controlling our choices, code in our life exerts a more profound and regulatory effect.” – Tim Wu
 
-Ever since I began to explore the impact of technology on social and public policy, I became drawn to coding. My previous legal studies enabled me to appreciate the omnipresence of code in all facets of life. Consequently, I enrolled at Makers Academy in London to foster my understanding of software development. As a result, I thoroughly enjoy the wide range of tasks associated with software development and technology. 
+Ever since I began to explore the impact of technology on social and public policy, I became drawn to coding. My previous legal studies enabled me to appreciate the omnipresence of code in all facets of life. Consequently, I enrolled at Makers Academy in London to foster my understanding of software development. As a result, I thoroughly enjoy the wide range of tasks associated with software development and technology.
 
 
  # Background
