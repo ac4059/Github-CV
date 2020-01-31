@@ -40,7 +40,7 @@ Ever since I began to explore the impact of technology on social and public poli
  | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
  |--|--|--|--|--|
  | [Route Around](https://github.com/Fantastic-Makers-Group-2-final-Project) | As a group of avid walkers, a 5-man team sought to develop an application, using JavaScript and React, that generated a random circular route when given either a postal code or the user's current location. | 2 weeks | JavaScript, React, Node, Google API | Jasmine, Jest, Travis CI, RSpec |
-
+ |--|--|--|--|--|
  | [Boris Bikes](https://github.com/ac4059/b_bikes) | A command line app that allows users to access bikes. This app was my first on-site project at Makers. I sought to integrate a vast array of user stories and mirror the process of accessing Boris Bikes that Londoners regularly face in real time. | 1 week | Ruby | RSpec |
 
 # Skills
