@@ -28,7 +28,7 @@
 
 “You have a speed limit, no more than 60 miles per hour. What if you had a car and a computer said that this car is not going to go faster than 60 miles per hour. It’s a different way of controlling behavior. Often by controlling our choices, code in our life exerts a more profound and regulatory effect.” – Tim Wu
 
-Ever since I began to explore the impact of technology on social and public policy, I became drawn to coding. My previous legal studies enabled me to appreciate the omnipresence of code in all facets of life. Consequently, I enrolled at Makers Academy in London to foster my understanding of software development. As a result, I thoroughly enjoy the wide range of tasks associated with software development and technology.
+Ever since I began to explore the impact of technology on social and public policy, I became drawn to coding. My previous legal studies enabled me to appreciate the omnipresence of code in all facets of life. Consequently, I enrolled at Makers Academy in London to foster my understanding of software development. Now, I thoroughly enjoy the wide range of tasks associated with software development and technology.
 
 
  # Background
@@ -41,11 +41,13 @@ Ever since I began to explore the impact of technology on social and public poli
  |--|--|--|--|--|
  | [Route Around](https://github.com/Fantastic-Makers-Group-2-final-Project) | As a group of avid walkers, a 5-man team sought to develop an application, using JavaScript and React, that generated a random circular route when given either a postal code or the user's current location. | 2 weeks | JavaScript, React, Node, Google API | Jasmine, Jest, Travis CI, RSpec |
 
+ | [Boris Bikes](https://github.com/ac4059/b_bikes) | A command line app that allows users to access bikes. This app was my first on-site project at Makers. I sought to integrate a vast array of user stories and mirror the process of accessing Boris Bikes that Londoners regularly face in real time. | 1 week | Ruby | RSpec |
+
 # Skills
 
   Technical Flexibility
 
-  At Makers Academy my training consistently followed TDD methodology. Further, I actively aim to align my coding practices with Agile and XP values. My past experiences in other industries instilled a sense of malleability within me. In order to broaden my perspective, I learnt to write code in Ruby, JavaScript, and Python. Now, I've applied this flexibility to understanding different parts of the codebase to better understand the roles and responsibilities of our team and allow better delegation of tasks.
+  At Makers Academy my training consistently followed TDD methodology. Further, I actively aim to align my coding practices with Agile and XP values. My past experiences in other industries instilled a sense of malleability within me. In order to broaden my perspective, I learnt to write code in Ruby, JavaScript, and Python. Now, I've applied this flexibility to understanding different parts of the codebase to better comprehend the roles and responsibilities of our team and allow better delegation of tasks.
 
   Data Analysis
 
@@ -104,7 +106,5 @@ Sales Associate
 * International Baccalaureate Diploma
 
 # Interests
-* Arsenal
+* Biking
 * Movie Trivia
-
-![](Arsenal_FC.jpg)
