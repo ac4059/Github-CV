@@ -33,7 +33,7 @@ Ever since I began to explore the impact of technology on social and public poli
 
  # Background
 
- I'm an alumnus of [Makers](https://makers.tech/) and a **full-stack Software Engineer**. Over the past 10 years, I have had the incredible fortune to live and work in three different countries(Canada, the United States, and the United Kingdom). Most recently, I worked as a law clerk at Havkins Rosenfeld Ritzert and Varriale in New York City. Unbeknownst to me, my legal projects spawned an interest in software engineering that I elected to pursue more holistically at Makers Academy in London. I previously attended law school in New York City and completed a Bachelor of Arts degree in History and Economics at McGill University in Montreal, Canada.
+ I'm an alumnus of [Makers](https://makers.tech/) and a **full-stack Software Engineer**. Over the past 10 years, I have had the incredible fortune to live and work in three different countries(Canada, the United States, and the United Kingdom). Most recently, I worked as a law clerk at Havkins Rosenfeld Ritzert and Varriale in New York City. Unforeseeable to me, my legal projects spawned an interest in software engineering that I elected to pursue more holistically at Makers Academy in London. I previously attended law school in New York City and completed a Bachelor of Arts degree in History and Economics at McGill University in Montreal, Canada.
 
  # Projects
 
@@ -41,6 +41,10 @@ Ever since I began to explore the impact of technology on social and public poli
  |--|--|--|--|--|
  | [Route Around](https://github.com/Fantastic-Makers-Group-2-final-Project) | As a group of avid walkers, a 5-man team sought to develop an application, using JavaScript and React, that generated a random circular route when given either a postal code or the user's current location. | 2 weeks | JavaScript, React, Node, Google API | Jasmine, Jest, Travis CI, RSpec |
  | [Boris Bikes](https://github.com/ac4059/b_bikes) | A command line app that allows users to access bikes. This app was my first on-site project at Makers. I sought to integrate a vast array of user stories and mirror the process of accessing Boris Bikes that Londoners regularly face in real time. | 1 week | Ruby | RSpec |
+ | [Bookmark Manager](https://github.com/ac4059/bookmarkmanager-) | A database app that allows users to maintain a collection of bookmarks (URLs). It is used to store useful features of a webpage. I sought to develop a database that can store the most important details of a websites. This app was developed to bolster our understanding of tables, SQL, and their intrinsic relationships. | 1 week | PSQL, Ruby | RSpec, Capybara |
+
+
+a website to maintain a collection of bookmarks (URLs). You can use it to save a webpage you found useful.
 
 # Skills
 
