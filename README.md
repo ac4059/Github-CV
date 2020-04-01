@@ -2,7 +2,7 @@
 
 <h1 align="center"> Arjun Roy </h1>
 <p align="center">
-<a href="https://medium.com/@arjunroychoudhry4059">
+<a href="https://ac4059.wordpress.com">
 <img src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" alt="medium" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.codewars.com/users/ac4059">
@@ -42,9 +42,10 @@ Ever since I began to explore the impact of technology on social and public poli
  | [Route Around](https://github.com/Fantastic-Makers-Group-2-final-Project) | As a group of avid walkers, a 5-man team sought to develop an application, using JavaScript and React, that generated a random circular route when given either a postal code or the user's current location. | 2 weeks | JavaScript, React, Node, Google API | Jasmine, Jest, Travis CI, RSpec |
  | [Boris Bikes](https://github.com/ac4059/b_bikes) | A command line app that allows users to access bikes. This app was my first on-site project at Makers. I sought to integrate a vast array of user stories and mirror the process of accessing Boris Bikes that Londoners regularly face in real time. | 1 week | Ruby | RSpec |
  | [Bookmark Manager](https://github.com/ac4059/bookmarkmanager-) | A database app that allows users to maintain a collection of bookmarks (URLs). It is used to store useful features of a webpage. I sought to develop a database that can store the most important details of a websites. This app was developed to bolster our understanding of tables, SQL, and their intrinsic relationships. | 1 week | PSQL, Ruby | RSpec, Capybara |
+ | [Bank Technical Challenge](https://github.com/ac4059/bank_tech_test) | A simple Ruby command line challenge. This test was developed as an initial technical test. | 1 week | Ruby | RSpec |
+ | [Thermostat](https://github.com/ac4059/bank_tech_test) | A simple Ruby command line challenge. This test was developed as an initial technical test. | 1 week | Ruby | RSpec |
 
 
-a website to maintain a collection of bookmarks (URLs). You can use it to save a webpage you found useful.
 
 # Skills
 
