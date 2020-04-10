@@ -43,7 +43,7 @@ Ever since I began to explore the impact of technology on social and public poli
  | [Boris Bikes](https://github.com/ac4059/b_bikes) | A command line app that allows users to access bikes. This app was my first on-site project at Makers. I sought to integrate a vast array of user stories and mirror the process of accessing Boris Bikes that Londoners regularly face in real time. | 1 week | Ruby | RSpec |
  | [Bookmark Manager](https://github.com/ac4059/bookmarkmanager-) | A database app that allows users to maintain a collection of bookmarks (URLs). It is used to store useful features of a webpage. I sought to develop a database that can store the most important details of a websites. This app was developed to bolster our understanding of tables, SQL, and their intrinsic relationships. | 1 week | PSQL, Ruby | RSpec, Capybara |
  | [Bank Technical Challenge](https://github.com/ac4059/bank_tech_test) | A simple Ruby command line challenge. This test was developed as an initial technical test. | 1 week | Ruby | RSpec |
- | [Thermostat](https://github.com/ac4059/JS_Thermostat) |  | 1 week | Ruby | RSpec |
+ | [Thermostat](https://github.com/ac4059/JS_Thermostat) | A thermostat web application, great for familiarizing with Javascript and Jasmine TDD framework. | 1 week | Javascript, jQuery, AJAX, APIs | Jasmine |
 
 
 
